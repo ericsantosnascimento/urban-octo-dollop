@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class IDTTestApplication {
+public class IDTApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(IDTTestApplication.class, args);
+        SpringApplication.run(IDTApplication.class, args);
     }
 }
